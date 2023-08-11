@@ -6,6 +6,7 @@ import Repository.Drinks.Mojito;
 import Repository.Drinks.PinaColada;
 import Repository.DrinksList;
 
+//just simple factory - takes drink's name and returns proper class to work
 public class DrinksFactory {
 
     public Drink getDrink(DrinksList orderedDrink) {

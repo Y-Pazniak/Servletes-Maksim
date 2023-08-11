@@ -1,5 +1,6 @@
 package Repository.Drinks;
 
+//just another test class for factory to create it
 public class Cosmopolitan implements Drink {
     @Override
     public void drink() {
